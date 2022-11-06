@@ -5,9 +5,8 @@ PHP version  Tester : 7.4
 # inbitefarm.pharmapreneur.ac.id
 
 ONLY DOMAIN 
-https://inbitefarm.pharmapreneur.ac.id/
-OR
-http://inbitefarm.pharmapreneur.ac.id/
+* https://inbitefarm.pharmapreneur.ac.id/
+* http://inbitefarm.pharmapreneur.ac.id/
 
 # Web UI
 ![ice_screenshot_20221107-005918](https://user-images.githubusercontent.com/67509798/200185011-42f13392-ec7c-4a64-907a-84c1b9acec8f.png)
